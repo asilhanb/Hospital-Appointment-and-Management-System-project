@@ -1,0 +1,16 @@
+{
+    "name": "asilhan/hastanesistemi",
+    "description": "composer install",
+    "autoload": {
+        "psr-4": {
+            "Asilhan\\Hastanesistemi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asilhan",
+            "email": "22000453@emu.edu.tr"
+        }
+    ],
+    "require": {}
+}
