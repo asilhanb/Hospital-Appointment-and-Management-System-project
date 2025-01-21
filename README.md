@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ![Reset Password Form](images/reset_password.png)
 
 ### Doctor Panel
-![Doctor Panel](images/doctor_panel.png)
+![Doctor Panel](images/doktor_panel.png)
 
 ### Doctor Secretary Management
 ![Add Secretary Form](images/doktor_sekreterd.png)
