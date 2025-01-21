@@ -86,11 +86,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ![Secretary delete](images/sekreter_panel_islem.png)
 
 
->
-
-
-> ```
-
-> ```
-
----
